@@ -1,0 +1,2 @@
+C:\Users\Syrotynin\Documents\Visual Studio 2013\Projects\fileCounter\Debug
+C:\Users\Syrotynin\Documents\Visual Studio 2013\Backup Files
